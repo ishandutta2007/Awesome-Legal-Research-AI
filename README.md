@@ -70,6 +70,7 @@ Below are key open-source GitHub repositories, tools, datasets, and MCP servers 
 | ⚡ **[LegalQuants / LQ-AI](https://github.com/LegalQuants/lq-ai)** | [![GitHub_Stars](https://img.shields.io/github/stars/LegalQuants/lq-ai?style=social&color=white)](https://github.com/LegalQuants/lq-ai/stargazers) | Self-hosted, privacy-focused open-source legal AI platform featuring CourtListener MCP integration and citation verification. |
 | ⚡ **[GitLaw (German Federal Law)](https://github.com/mikelninh/gitlaw)** | [![GitHub_Stars](https://img.shields.io/github/stars/mikelninh/gitlaw?style=social&color=white)](https://github.com/mikelninh/gitlaw/stargazers) | Source-grounded legal research RAG pipeline providing transparent answers and citations for German statutes. |
 | ⚡ **[CourtListener MCP Server](https://github.com/cyanheads/courtlistener-mcp-server)** | [![GitHub_Stars](https://img.shields.io/github/stars/cyanheads/courtlistener-mcp-server?style=social&color=white)](https://github.com/cyanheads/courtlistener-mcp-server/stargazers) | Open Model Context Protocol (MCP) server enabling AI assistants (Claude, Cursor) to search CourtListener case law live. |
+| ⚡ **[Court Rules](https://github.com/foklepoint/court-rules-mcp)** | [![GitHub_Stars](https://img.shields.io/github/stars/foklepoint/court-rules-mcp?style=social&color=white)](https://github.com/foklepoint/court-rules-mcp/stargazers) | MIT-licensed MCP server exposing U.S. federal court rules, local rules, judge standing orders, court holidays and filing deadline checks; free API key. |
 
 ---
 
